@@ -18,6 +18,7 @@
 ## 1️⃣QuantumultX 小白2.0配置：
 * 配置更新时间：2023-02-24
 * 墨鱼自用QX配置 [***Cuttlefish.conf***](https://quantumult.app/x/open-app/update-configuration?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A//raw.githubusercontent.com/ddgksf2013/Profile%5C/master/QuantumultX.conf%3Fraw%3Dtrue%2Ctag%3DQuantumultX-ddgksf2013%22%5D%7D) 
+***(点击即替换原有配置,所以请自行做好原有配置文件的备份)***
 * 上述配置支持QX商店最新版，包括图标库订阅、超级VIP、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://ghproxy.com/```
 * 更多懒人配置请狠狠的 [***Click me***](https://github.com/ddgksf2013/Profile/blob/master/README.md)
